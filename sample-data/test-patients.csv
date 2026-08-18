@@ -1,0 +1,36 @@
+patient_name,admission_date,discharge_date,ward,age,contact_preference,nps_score
+Montse Serra,2026-08-01,2026-08-04,Cardiology,46,email,8
+Albert Serra,2026-08-19,2026-08-23,Dermatology,21,email,5
+Nuria Roca,2026-08-17,2026-08-22,Dermatology,43,none,6
+David Vila,2026-08-19,2026-08-22,Dermatology,38,none,6
+Xavier Bosch,2026-08-09,2026-08-11,Cardiology,61,email,8
+Toni Riera,2026-08-09,2026-08-10,General Surgery,33,sms,8
+Anna Soler,2026-08-10,2026-08-15,Orthopedics,42,none,10
+Gemma Font,2026-08-03,2026-08-05,Dermatology,66,sms,9
+Marta Marti,2026-08-12,2026-08-14,Orthopedics,63,email,6
+Ramon Marti,2026-08-03,2026-08-08,Cardiology,49,email,5
+Marta Costa,2026-08-09,2026-08-14,Cardiology,59,email,8
+Carla Costa,2026-08-09,2026-08-10,Cardiology,58,email,8
+Montse Vila,2026-08-13,2026-08-17,Cardiology,51,email,8
+Elena Camps,2026-08-19,2026-08-23,Pediatrics,69,sms,10
+David Vidal,2026-08-17,2026-08-21,Dermatology,24,email,8
+Ramon Costa,2026-08-20,2026-08-21,General Surgery,66,none,9
+Marta Soler,2026-08-09,2026-08-14,Dermatology,32,none,10
+Gemma Marti,2026-08-11,2026-08-12,Orthopedics,73,email,6
+Marta Puig,2026-08-09,2026-08-14,Cardiology,82,email,9
+Montse Soler,2026-08-20,2026-08-22,Cardiology,65,email,7
+Albert Guix,2026-08-17,2026-08-18,Pediatrics,59,sms,10
+Pau Roca,2026-08-02,2026-08-04,Pediatrics,28,email,8
+Enric Vila,2026-08-03,2026-08-08,Cardiology,34,none,6
+Elena Soler,2026-08-20,2026-08-24,Cardiology,43,none,8
+Pau Costa,2026-08-12,2026-08-16,Pediatrics,75,email,8
+Maria Riera,2026-08-18,2026-08-20,Pediatrics,46,email,8
+Anna Camps,2026-08-02,2026-08-04,Dermatology,22,sms,9
+Ramon Vila,2026-08-07,2026-08-12,Cardiology,78,email,8
+Oriol Guix,2026-08-14,2026-08-16,Dermatology,30,none,6
+Marta Prat,2026-08-02,2026-08-03,Dermatology,69,none,9
+Carla Guix,2026-08-04,2026-08-06,Cardiology,42,none,6
+Elena Vila,2026-08-08,2026-08-09,General Surgery,30,email,8
+Montse Soler,2026-08-01,2026-08-02,Cardiology,39,sms,7
+Sara Ferrer,2026-08-02,2026-08-04,General Surgery,18,sms,8
+Elena Ferrer,2026-08-15,2026-08-18,General Surgery,80,email,8
